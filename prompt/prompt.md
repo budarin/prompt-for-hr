@@ -6,7 +6,7 @@
 - Резюме: (вложено / см. в разделе Текст резюме)
 - GitHub: https://github.com/budarin
 - NPM: https://www.npmjs.com/~budarin
-- Telegram blog: https://t.me/budarin_dev / https://t.me/s/budarin_dev
+- Telegram blog: https://t.me/s/budarin_dev
 - Medium: https://medium.com/@vadim-budarin
 - Dev.to: https://dev.to/budarin
 
