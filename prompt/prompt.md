@@ -4,7 +4,7 @@
 
 ## Ресурсы кандидата:
 - Резюме: 
-  (вставить сюда текст резюме)
+  (вставить сюда раздел о карьере и образовании из резюме)
 - GitHub: https://github.com/budarin
 - NPM: https://www.npmjs.com/~budarin
 - Telegram blog: https://t.me/s/budarin_dev
