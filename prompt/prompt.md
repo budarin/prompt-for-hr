@@ -8,6 +8,7 @@
 - GitHub: https://github.com/budarin
 - NPM: https://www.npmjs.com/~budarin
 - Telegram blog: https://t.me/s/budarin_dev
+- Habr: https://habr.com/ru/users/Budarin/articles/
 - Medium: https://medium.com/@vadim-budarin
 - Dev.to: https://dev.to/budarin
 
