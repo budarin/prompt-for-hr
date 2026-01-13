@@ -7,7 +7,7 @@
   (вставить сюда раздел о карьере и образовании из резюме)
 - GitHub: https://github.com/budarin
 - NPM: https://www.npmjs.com/~budarin
-- Telegram blog: https://t.me/s/budarin_dev (для чтения блога нужно проскроллировать вверх)
+- Telegram blog: https://t.me/s/budarin_dev (для чтения блога с самого начала - нужно проскроллировать вверх)
 - Habr: https://habr.com/ru/users/Budarin/articles/
 - Medium: https://medium.com/@vadim-budarin
 - Dev.to: https://dev.to/budarin
